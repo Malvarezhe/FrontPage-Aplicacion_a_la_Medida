@@ -1,6 +1,6 @@
 # FrontPage-Aplicacion_a_la_Medida
 
-Diseño de sitio web para empresa de creación de aplicaciones a la medida del cliente. 
+Diseño de sitio web (sin funcionalidad) para empresa de creación de aplicaciones a la medida del cliente. 
 
 Captura del sitio: 
 
